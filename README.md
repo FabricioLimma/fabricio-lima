@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou labrício lima</h1>
+<h1 align="center">Oi 👋, Eu sou Fabricio lima</h1>
 <h3 align="center">Apaixonado por carros e análise e desenvolvimento de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Engenharia e Projeto de Software**
